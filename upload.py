@@ -37,10 +37,3 @@ with open('data.csv','rb')as f:
 		page.edit(text=row[1],summery="test edit")
 
 
-1.Python for you and me
-
-2. Learn Python the hard way
-
-
-
-
