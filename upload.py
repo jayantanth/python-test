@@ -7,8 +7,8 @@ import sys
 
 wiki_url="https://bn.wikipedia.org/w/api.php"
 
-wiki_username="JoyBot"
-wiki_password="sonamoni@1861"
+wiki_username=""
+wiki_password=""
 
 wiki=wikitools.wiki.Wiki(wiki_url)
 
